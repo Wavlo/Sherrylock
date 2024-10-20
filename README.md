@@ -13,3 +13,5 @@
   - Just download Apache or its random distribution (like XAMPP). You can also use Ngnix, but I don't check on it - so use Apache better. Then run the server and visit `localhost`.
 3. How to contribute?
   - Fork the repo, change something, submit a pull request and everything should be fine. Make sure to test these changes.
+4. In which area project needs contributors?
+  - Now in everything (last areas update: `20.10.2024`)
