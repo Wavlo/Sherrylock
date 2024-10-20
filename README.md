@@ -15,3 +15,5 @@
   - Fork the repo, change something, submit a pull request and everything should be fine. Make sure to test these changes.
 4. In which area project needs contributors?
   - Now in everything (last areas update: `20.10.2024`)
+
+My english state is very, very bad so if you can fix spelling and other things in README - please do it for me
