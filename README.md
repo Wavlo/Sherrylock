@@ -8,4 +8,4 @@
 ## ❓ FAQ
 
 1. Why not Node.JS/React/Next.JS and other shit?
-  - First answer: because I know PHP better and I don't understand this and I think this is shit. Second answer: because yes
+  - First answer: because I know PHP better, I don't understand this and I think this is shit. Second answer: because yes
