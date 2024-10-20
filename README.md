@@ -9,3 +9,7 @@
 
 1. Why not Node.JS/React/Next.JS and other shit?
   - First answer: because I know PHP better, I don't understand this and I think this is shit. Second answer: because yes
+2. How to run this?
+  - Just download Apache or its random distribution (like XAMPP). You can also use Ngnix, but I don't check on it - so use Apache better. Then run the server and visit `localhost`.
+3. How to contribute?
+  - Fork the repo, change something, submit a pull request and everything should be fine. Make sure to test these changes.
